@@ -1,1 +1,1 @@
-#static html page deployed through surge
+static html page deployed through surge
